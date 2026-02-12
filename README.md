@@ -35,10 +35,10 @@ Geniş bir yelpazede yazılım geliştirme araçlarını kullanıyorum:
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ServetAlav001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=[ServetAlav001]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ServetAlav001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ServetAlav001]&layout=compact&theme=radical" alt="Top Langs" />
 </a>
 </p>
