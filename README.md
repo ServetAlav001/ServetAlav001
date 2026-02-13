@@ -38,7 +38,7 @@ Geniş bir yelpazede yazılım geliştirme araçlarını kullanıyorum:
 
 Benimle projeler, iş birlikleri veya teknoloji sohbetleri için iletişime geçebilirsiniz:
 
-* [LinkedIn Profilim]([LİNKEDİN_LİNKİN](https://www.linkedin.com/in/servet-alav-496a85254/))
+* [LinkedIn Profilim][(https://www.linkedin.com/in/servet-alav-496a85254/)]
 
 ---
 *⭐️ Bu profili beğendiyseniz projelerime yıldız vermeyi unutmayın!*
